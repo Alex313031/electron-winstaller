@@ -1,4 +1,5 @@
-# Electron Installer
+##### Atom and all repositories under Atom will be archived on December 15, 2022. Learn more in our [official announcement](https://github.blog/2022-06-08-sunsetting-atom/)
+ # Electron Installer
 
 [![AppVeyor Build status](https://ci.appveyor.com/api/projects/status/bq6c06suq5abb66s/branch/master?svg=true)](https://ci.appveyor.com/project/electron-bot/windows-installer/branch/master)
 [![Travis CI Build Status](https://travis-ci.org/electron/windows-installer.svg?branch=master)](https://travis-ci.org/electronjs/windows-installer)
