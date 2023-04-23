@@ -11,7 +11,7 @@
   },
   "scripts": {
     "build": "babel -d lib/ src/",
-    "clean": "rm -r -f -v node_modules",
+    "clean": "rm -r -f -v node_modules && rm -r -f -v lib/*",
     "dist": "npm run build",
     "prepublish": "npm run build",
     "lint": "eslint src spec",
