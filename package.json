@@ -1,6 +1,6 @@
 {
   "name": "@atom/electron-winstaller",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Module to generate a Windows installer for Atom-ng",
   "main": "./lib/index.js",
   "license": "MIT",
